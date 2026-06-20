@@ -1,6 +1,6 @@
 # NaturApp - Mobile E-Commerce de Productos Naturales
 
-NaturApp es una aplicación móvil de comercio electrónico inspirada en **Santa Natura**, desarrollada como parte del curso de **Diseño de Software Móvil II** en la Universidad Nacional Mayor de San Marcos (UNMSM). La aplicación permite explorar un catálogo de productos naturales, gestionar un carrito de compras, realizar pedidos y administrar perfiles de usuario.
+NaturApp es una aplicación móvil de comercio electrónico inspirada en **Santa Natura**, desarrollada como parte del curso de **Taller de Software Móvil** en la Universidad Nacional Mayor de San Marcos (UNMSM). La aplicación permite explorar un catálogo de productos naturales, gestionar un carrito de compras, realizar pedidos y administrar perfiles de usuario.
 
 ## 🚀 Características Principales
 
