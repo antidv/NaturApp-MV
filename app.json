@@ -19,6 +19,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "scheme": "naturapp",
+    "plugins": [
+      "expo-sqlite",
+      "expo-router",
+      "expo-status-bar"
+    ]
   }
 }
